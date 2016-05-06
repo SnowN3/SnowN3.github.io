@@ -1,0 +1,251 @@
+
+body {
+    background-color: #ffffe6;
+    height: 960px;
+}
+
+h1 {
+    margin-top: 20px;
+    color: #69240e;
+    font-size: 50px;
+    font-family: 'Candal', sans-serif; /*I think this font works for this site*/
+    text-align: center;
+    padding-top: 20px;
+}
+
+ .active {
+     text-decoration: underline;   /*lets the user know which page they're viewing*/
+ }
+ 
+.nav {
+    border-bottom: 6px solid #339933;
+}
+
+.logo {
+    float: right;
+    padding-right: 180px;
+}
+
+ul {
+    list-style-type: none;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+li {
+    display: inline;
+    font-size: 25px;
+    font-family: 'Candal', sans-serif;
+    padding: 0px 80px 0px 30px;
+}
+
+li a {
+    display: inline;
+    color: #b35900;
+    text-decoration: none;
+}
+
+.footer {
+    height: 60px;
+    background-color: #69240e;
+    margin-top: 100px;
+    clear: both;
+}
+
+.footer p {
+    color: white;
+    font-family: 'Candal', sans-serif;
+    font-size: 16px;
+    padding-left: 5px;
+    vertical-align: middle;
+    padding-top: 8px;
+}
+
+.footer img {
+    vertical-align: middle;
+}
+
+                                    /*about us page*/
+h4 {
+    font-size: 18px;
+    font-family: 'Candal', sans-serif;
+    color: #994d00;
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+.main {
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.about, .hiketrail {
+    display: inline-block;
+}
+
+.about p {
+    font-size: 16px;
+    font-family: 'Candal', sans-serif;
+    width: 600px;
+    color: #69240e;
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.main2 {
+    display: inline-block;
+    margin-top: 60px;
+}
+
+.hudson {
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.contact {
+    display: inline-block;
+
+}
+    
+.contact p {
+    font-size: 16px;
+    font-family: 'Candal', sans-serif;
+    width: 550px;
+    color: #69240e;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+                                        /*testimonials page*/
+p {
+    font-size: 20px;
+    font-family: 'Candal', sans-serif;
+    margin-top: 20px;
+    margin-left: 70px;
+    text-align: justify;
+    color: #994d00;
+}     
+
+.testdiv {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.testimonials1, .testimonials2, .testimonials3 {
+    font-family: 'Candal', sans-serif;
+    font-size: 16px;
+    color: #ffffb3;
+    margin-bottom: 10px;
+}
+
+.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img11, .img12 { 
+    display: inline-block;
+    position: relative;
+    z-index: -1;
+    margin-right: 10px;
+}
+
+                                /*left margin value attempts to center text*/
+.cap1, .cap2, .cap5 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+}
+
+.cap3 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 12px;
+}
+
+.cap4 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 80px;
+}
+
+.cap6 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 30px;
+}
+
+.cap7 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 2px;
+}
+
+.cap8 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 8px;
+}
+
+.cap9 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 14px;
+}
+
+.cap10 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 5px;
+}
+
+.cap11 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 40px;
+} 
+
+.cap12 {
+    position: absolute;
+    z-index: 1;
+    bottom: 12px;
+    left: 10px;
+}
+
+.house {
+    text-align: center;
+}
+                                    /*home page*/
+.cover {
+    position: relative;
+    z-index: -1;
+    top: 45px;
+}
+
+.topleft {
+    position: absolute;
+    z-index: 1;
+    top: 380px;
+    left: 140px;
+    font-size: 50px;
+    font-family: 'Candal', sans-serif;
+    color: #ffd633; 
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+
